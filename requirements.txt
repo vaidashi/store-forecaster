@@ -109,6 +109,7 @@ jupyter_server==2.5.0
 jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.4
+# kaggle==1.5.13
 kiwisolver==1.4.4
 korean-lunar-calendar==0.3.1
 kserve==0.10.1
